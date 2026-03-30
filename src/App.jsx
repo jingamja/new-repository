@@ -15,7 +15,7 @@ function App() {
           <img src={reactLogo} className="framework" alt="React logo" />
         </div>
         <div>
-          <h1>fuckU</h1>
+          <h1>hi</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
